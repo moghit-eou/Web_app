@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "default",
+            "request": "launch",
+            "name": "Launch HTML with CSS",
+            "file": "${file}"
+        }
+    ]
+}
